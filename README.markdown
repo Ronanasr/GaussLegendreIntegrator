@@ -44,7 +44,7 @@ This Python script calculates the moment of inertia (I_z) about the z-axis for a
 
 ## Example Output
 Below is an example of the 3D surface plot for the solid:
-[Run GaussLegendreIntegrator Notebook](GaussLegendreIntegrator.ipynb)
+![Solid Plot](solid_plot.png)
 
 ## Code Explanation
 - **Function**: `density(x, y, z)`
